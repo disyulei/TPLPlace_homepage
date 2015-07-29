@@ -1,0 +1,26 @@
+#!
+
+# ==================================================================
+                      TPLPlace - Version 2.X                    
+                                by                                 
+       Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, and David Z. Pan        
+               ECE Dept.,   Unve. of Texas at Austin               
+                    Copyright (c) 2012 - 2014
+       Email: {bei, xiaoqingxu, jrgao, dpan}@cerc.utexas.edu       
+# ==================================================================
+
+
+## Important Release:
+ UTDecomposer_2_X:  ICCAD'13 release
+ UTDecomposer_1_X:  ICCAD'13 old relase (routing model has some bugs)
+
+
+## Log:
+03/31/2014:  version 2.1, dump out file tplplace.out
+             send to NTHU as the binary used in ICCAD'13
+
+02/27/2014:  version 2.0, fix wirelength model
+             send to Jiang Kuang as ICCAD'13 binary
+
+
+

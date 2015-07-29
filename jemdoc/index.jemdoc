@@ -1,0 +1,69 @@
+# jemdoc: addcss{jemdoc/jemdoc.css}
+# jemdoc: addcss{jemdoc/myExtra.css}
+# jemdoc: title{TPL aware Detailed Placement}
+
+
+# ==== Title and Authors
+{{
+<p><center><font size="8" face="Times New Roman" color="b54900">
+TPLPlace: TPL aware Detailed Placement
+</font></center></p>
+}}
+
+
+{{<div id="intro">}}
+== Introduction
+
+~~~
+{}{img_left}{jemdoc/img/stitch_place_algo_0.jpg}{mcc}{244}{}{}
+
+We present *TPLPlace*, a triple patterning lithography aware detailed placement solver.
+
+~~
+
+{{</div>}}
+
+
+
+{{<div id="excu">}}
+== Excutables
+
+- Updated excutables: [software/TPLPlacer/TPLPlacer_3_1.tar.gz Version 3.1]
+
+{{</div>}}
+
+
+
+{{<div id="publication">}}
+== Publications
+
+- Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Yibo Lin, Zhuo Li, Charles Alpert, and David Z. Pan,
+  "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7036058 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol.34, no.5, pp.726--739, 2015.
+
+- Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, and David Z. Pan,
+  "[http://dl.acm.org/citation.cfm?id=2561828.2561899 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
+  IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, November 18--21, 2013. 
+  *(William J. McCalla Best Paper Award)*
+
+{{</div>}}
+
+
+{{<div id="contact">}}
+== Contact
+
+TPLPlacer is developed by
+[http://www.cerc.utexas.edu/~yibolin Yibo Lin],
+[http://www.cerc.utexas.edu/~bei Bei Yu],
+and [http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan].
+Please [mailto:yibolin@utexas.edu contact us] with any bug reports and comments. 
+
+{{</div>}}
+
+
+{{<div id="link">}}
+== Links
+
+{{</div>}}
+
+
