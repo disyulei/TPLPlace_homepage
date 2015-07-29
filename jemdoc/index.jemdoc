@@ -37,12 +37,18 @@ We present *TPLPlace*, a triple patterning lithography aware detailed placement 
 {{<div id="publication">}}
 == Publications
 
+- Yibo Lin, Bei Yu, Biying Xu and David Z. Pan,
+   "Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict",
+  IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 2--6, 2015.
+
+
 - Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Yibo Lin, Zhuo Li, Charles Alpert, and David Z. Pan,
   "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7036058 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol.34, no.5, pp.726--739, 2015.
 
 - Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, and David Z. Pan,
-  "[http://dl.acm.org/citation.cfm?id=2561828.2561899 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
+  "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6691142 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
+  #"[http://dl.acm.org/citation.cfm?id=2561828.2561899 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, November 18--21, 2013. 
   *(William J. McCalla Best Paper Award)*
 
