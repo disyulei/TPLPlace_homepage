@@ -1,0 +1,7 @@
+
+*.html
+bak*
+eqs
+jemdoc/eqs
+.DS_Store
+
