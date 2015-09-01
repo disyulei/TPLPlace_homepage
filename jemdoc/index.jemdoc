@@ -33,6 +33,17 @@ We present *TPLPlace*, a triple patterning lithography aware detailed placement 
 {{</div>}}
 
 
+{{<div id="bench">}}
+== Benchmarks
+
+- SPARC 95 Benchmarks:
+[benchmark/sparc_95.tar.gz ASCII format]
+
+- SPARC 70\/80\/85\/90 NanGate 15nm Benchmarks:
+[benchmark/sparc_nangate_15nm.tar.gz LEF/DEF format]
+
+{{</div>}}
+
 
 {{<div id="publication">}}
 == Publications
