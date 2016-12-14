@@ -30,7 +30,8 @@ We present *TPLPlace*, a triple patterning lithography aware detailed placement 
 
 - Updated executables: [executables/TPLPlacer_3_1.tar.gz Version 3.1]
 
-- Cross-row executables: [executables/TPLPlacer_CR_01-07-2016.tar.gz ICCAD'15 executables]
+# - Cross-row executables: [executables/TPLPlacer_CR_01-07-2016.tar.gz ICCAD'15 executables] 
+- Cross-row executables: [executables/TPLPlacer_CR_12-14-2016.tar.gz TCAD'17 executables]
 
 {{</div>}}
 
@@ -50,6 +51,10 @@ We present *TPLPlace*, a triple patterning lithography aware detailed placement 
 {{<div id="publication">}}
 == Publications
 
+- Yibo Lin, Bei Yu, Biying Xu and David Z. Pan,
+  "Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict", 
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017. 
+  
 - Yibo Lin, Bei Yu, Biying Xu and David Z. Pan,
    "[http://dl.acm.org/citation.cfm?id=2840875 Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict]",
   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 2--6, 2015.
